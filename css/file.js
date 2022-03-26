@@ -1,0 +1,1 @@
+const projectName = 'Tribute page by Shaheer & Antar';
